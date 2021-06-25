@@ -4,13 +4,13 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1037px;
+  min-height: 1129px;
 }
 
 .u-section-1 .u-image-1 {
   width: 730px;
   height: 600px;
-  margin: -43px auto 0 222px;
+  margin: -9px 188px 0 auto;
 }
 
 .u-section-1 .u-text-1 {
@@ -21,8 +21,31 @@
   font-family: "Caesar Dressing";
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
   animation-duration: 1000ms;
-  width: 697px;
-  margin: -214px auto 0;
+  margin: -210px 205px 0 239px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-list-1 {
+  width: 90px;
+  margin: 49px auto 0 324px;
+}
+
+.u-section-1 .u-repeater-1 {
+  min-height: 119px;
+  grid-template-columns: 100%;
+  grid-gap: 0px 0px;
+}
+
+.u-section-1 .u-list-item-1 {
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -30,15 +53,31 @@
   font-family: "Caesar Dressing";
   font-size: 2.25rem;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  margin: 132px 481px 0 192px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-list-item-2 {
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
 }
 
 .u-section-1 .u-text-3 {
   font-weight: 400;
   font-family: "Caesar Dressing";
-  font-size: 9.375rem;
+  font-size: 2.25rem;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  margin: -62px 268px 0 405px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-list-item-3 {
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 0;
 }
 
 .u-section-1 .u-text-4 {
@@ -46,15 +85,15 @@
   font-family: "Caesar Dressing";
   font-size: 2.25rem;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  margin: -97px 499px 0 174px;
+  margin: 0 auto 0 0;
 }
 
 .u-section-1 .u-text-5 {
   font-weight: 400;
   font-family: "Caesar Dressing";
-  font-size: 2.25rem;
+  font-size: 9.375rem;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  margin: 6px 488px 0 185px;
+  margin: -142px 324px 0 350px;
 }
 
 .u-section-1 .u-text-6 {
@@ -63,16 +102,16 @@
   letter-spacing: normal;
   font-style: normal;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  margin: 71px 310px 0 363px;
+  margin: 49px 320px 0 354px;
 }
 
 .u-section-1 .u-social-icons-1 {
-  white-space: nowrap;
-  height: 88px;
+  height: 90px;
   min-height: 16px;
-  width: 88px;
-  min-width: 16px;
-  margin: 30px auto 60px 553px;
+  width: 191px;
+  min-width: 42px;
+  white-space: nowrap;
+  margin: 60px 458px 60px auto;
 }
 
 .u-section-1 .u-icon-1 {
@@ -80,177 +119,141 @@
   color: rgb(3, 155, 229) !important;
 }
 
+.u-section-1 .u-icon-2 {
+  height: 100%;
+  color: rgb(197, 54, 164) !important;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 977px;
+    min-height: 1117px;
   }
 
   .u-section-1 .u-image-1 {
-    width: 636px;
-    height: 603px;
-    margin-top: -46px;
-    margin-left: auto;
+    margin-right: 88px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: -215px;
-    margin-right: 135px;
-    margin-left: 108px;
+    margin-right: 105px;
+    margin-left: 139px;
   }
 
-  .u-section-1 .u-text-2 {
-    width: auto;
-    margin-right: 402px;
-    margin-left: 71px;
-  }
-
-  .u-section-1 .u-text-3 {
-    width: auto;
-    margin-right: 189px;
-    margin-left: 284px;
-  }
-
-  .u-section-1 .u-text-4 {
-    width: auto;
-    margin-right: 420px;
-    margin-left: 53px;
+  .u-section-1 .u-list-1 {
+    margin-left: 226px;
   }
 
   .u-section-1 .u-text-5 {
     width: auto;
-    margin-right: 409px;
-    margin-left: 64px;
+    margin-right: 226px;
+    margin-left: 247px;
   }
 
   .u-section-1 .u-text-6 {
-    width: 467px;
-    margin-right: 240px;
-    margin-left: 234px;
+    margin-right: 220px;
+    margin-left: 254px;
   }
 
   .u-section-1 .u-social-icons-1 {
-    margin-top: 12px;
-    margin-left: auto;
+    margin-top: 49px;
+    margin-right: 358px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 918px;
+    min-height: 1106px;
   }
 
   .u-section-1 .u-image-1 {
-    width: 584px;
-    height: 605px;
-    margin-top: -50px;
+    width: 720px;
+    height: 592px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: -213px;
-    margin-left: 12px;
-    margin-right: 12px;
+    margin-top: -202px;
+    margin-right: 0;
+    margin-left: 24px;
   }
 
-  .u-section-1 .u-text-2 {
-    margin-top: 111px;
-    margin-right: 473px;
-    margin-left: 137px;
-  }
-
-  .u-section-1 .u-text-3 {
-    margin-top: -63px;
-    margin-right: 79px;
-    margin-left: 174px;
-  }
-
-  .u-section-1 .u-text-4 {
-    margin-top: -102px;
-    margin-right: 485px;
-    margin-left: 111px;
+  .u-section-1 .u-list-1 {
+    height: auto;
+    min-height: 119px;
+    margin-top: 52px;
+    margin-left: 114px;
   }
 
   .u-section-1 .u-text-5 {
-    margin-top: 0;
-    margin-right: 455px;
-    margin-left: 102px;
+    margin-right: 114px;
+    margin-left: 140px;
   }
 
   .u-section-1 .u-text-6 {
-    margin-top: 105px;
-    margin-right: 126px;
-    margin-left: 153px;
+    margin-top: 46px;
+    margin-right: 110px;
+    margin-left: 144px;
   }
 
   .u-section-1 .u-social-icons-1 {
-    margin-bottom: 0;
+    margin-top: 46px;
+    margin-right: 253px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 992px;
+    min-height: 1019px;
   }
 
   .u-section-1 .u-image-1 {
-    width: 579px;
-    height: 537px;
-    margin-top: -11px;
-    margin-left: -19px;
-    margin-right: -19px;
+    width: 540px;
+    height: 444px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 3.625rem;
-    width: 540px;
-    margin-top: -184px;
-    margin-left: auto;
-    margin-right: auto;
+    width: auto;
+    margin-top: -91px;
+    margin-left: 0;
   }
 
-  .u-section-1 .u-text-2 {
-    margin-top: 170px;
-    margin-right: 395px;
-    margin-left: 35px;
+  .u-section-1 .u-btn-1 {
+    font-size: 4.6875rem;
   }
 
-  .u-section-1 .u-text-3 {
-    margin-top: -148px;
-    margin-right: -17px;
-    margin-left: 90px;
-  }
-
-  .u-section-1 .u-text-4 {
-    margin-top: -95px;
-    margin-right: 407px;
-    margin-left: 10px;
+  .u-section-1 .u-list-1 {
+    margin-top: 69px;
+    margin-left: 60px;
+    height: auto;
+    min-height: auto;
   }
 
   .u-section-1 .u-text-5 {
-    margin-top: -81px;
-    margin-right: 377px;
-    margin-left: 0;
+    margin-right: 0;
+    margin-left: 73px;
   }
 
   .u-section-1 .u-text-6 {
     width: auto;
-    margin-top: 298px;
-    margin-right: 26px;
-    margin-left: 47px;
+    margin-top: 50px;
+    margin-left: 37px;
+    margin-right: 37px;
   }
 
   .u-section-1 .u-social-icons-1 {
-    margin-top: 35px;
+    margin-top: 49px;
+    margin-right: auto;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 903px;
+    min-height: 1039px;
   }
 
   .u-section-1 .u-image-1 {
-    height: 390px;
-    margin-top: 38px;
+    height: 280px;
+    margin-top: 50px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -258,48 +261,35 @@
 
   .u-section-1 .u-text-1 {
     font-size: 3.75rem;
-    width: auto;
-    margin-top: -136px;
-    margin-left: 0;
-    margin-right: 0;
+    margin-top: 14px;
   }
 
-  .u-section-1 .u-text-2 {
-    font-size: 1.5rem;
-    margin-top: 136px;
-    margin-right: 114px;
-    margin-left: -114px;
+  .u-section-1 .u-btn-1 {
+    font-size: 3.75rem;
+    animation-duration: 1000ms;
   }
 
-  .u-section-1 .u-text-3 {
-    font-size: 6rem;
-    margin-top: -91px;
-    margin-right: 0;
-    margin-left: 36px;
-  }
-
-  .u-section-1 .u-text-4 {
-    font-size: 1.5rem;
-    margin-top: -91px;
-    margin-right: 225px;
-    margin-left: -25px;
+  .u-section-1 .u-list-1 {
+    height: auto;
+    min-height: 119px;
+    margin-top: 74px;
+    margin-left: 14px;
   }
 
   .u-section-1 .u-text-5 {
-    font-size: 1.5rem;
-    margin-top: 0;
-    margin-right: 239px;
-    margin-left: 1px;
+    font-size: 7.1875rem;
+    margin-top: -156px;
+    margin-left: 75px;
   }
 
   .u-section-1 .u-text-6 {
-    margin-top: 96px;
+    margin-top: 67px;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-1 .u-social-icons-1 {
-    margin-top: 23px;
-    margin-bottom: 60px;
+    margin-top: 41px;
+    margin-right: 67px;
   }
 }
